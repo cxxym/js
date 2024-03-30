@@ -1,17 +1,4 @@
-"ui";
-ui.layout(
-    <vertical gravity="center" padding="16">
-        <text textSize="16sp" textColor="black" text="电话"/>
-        <input id="phone" inputType="phone"/>
-        <text textSize="16sp" textColor="black" text="目标名字"/>
-        <input id="name" inputType="text"/>
-        <text textSize="16sp" textColor="black" text="推荐人名字"/>
-        <input id="nameb" inputType="text"/>
-        <text textSize="16sp" textColor="black" text="公司"/>
-        <input id="namegs" inputType="text"/>
-        <button id="ok" text="确定"/>
-    </vertical>);
-    
+
    
 
 //指定确定按钮点击时要执行的动作 
